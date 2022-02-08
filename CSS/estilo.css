@@ -1,0 +1,147 @@
+body{
+    margin: 0;
+}
+.div-1 {
+    width: 100%;
+    height: 400px;
+    background-image: linear-gradient(to left, red, blue, green, yellow);
+}
+
+.div-2 {
+    width: 100%;
+    height: 400px;
+    background-image: linear-gradient(to right, orange, yellow, pink, brown);
+}
+
+.div-3 {
+    width: 100%;
+    height: 400px;
+    background-image: linear-gradient(to top, purple, blue, red, yellow 80%);
+
+}
+
+.div-4 {
+    width: 100%;
+    height: 400px;
+    background-image: linear-gradient(45deg , blue , white , green , white);
+
+}
+
+.div-5 {
+    width: 100%;
+    height: 400px;
+    background-image: radial-gradient(black, blue, red, yellow);
+
+}
+
+.div-6 {
+    width: 100%;
+    height: 400px;
+    background-image: radial-gradient(red 5%, blue, white, gray);
+
+}
+
+.div-7 {
+    width: 100%;
+    height: 400px;
+    background-image: linear-gradient(150deg, red, green, yellow);
+
+}
+
+.div-8 {
+    width: 100%;
+    height: 400px;
+    background-image: linear-gradient(to right, blue, red, white );
+
+}
+
+.div-9 {
+    width: 100%;
+    height: 800px;
+    background-image: url(../Img/Lord1.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.div-10 {
+    width: 100%;
+    height: 800px;
+    background-image: url(../Img/Lord2.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.div-11 {
+    width: 100%;
+    height: 800px;
+    background-image: url(../Img/Lord3.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.div-12 {
+    width: 100%;
+    height: 800px;
+    background-image: url(../Img/Lord4.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.div-13 {
+    width: 100%;
+    height: 800px;
+    background-image: url(../Img/Lord5.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.div-14 {
+    width: 100%;
+    height: 800px;
+    background-image: url(../Img/lord6.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+
+}
+
+.div-15 {
+    width: 100%;
+    height: 800px;
+    background-image: url(../Img/lord7.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+
+}
+
+.div-16 {
+    width: 100%;
+    height: 800px;
+    background-image: url(../Img/lord9.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+p {
+    text-align: center;
+    font-size: small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 50px;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+h3 {
+    text-align: center;
+    text-decoration: underline;
+    font-size: large;
+}
